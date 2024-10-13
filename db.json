@@ -1,0 +1,34 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "price": 100.0,
+      "description": "Classic white sneakers with a comfortable sole and lace-up closure."
+    },
+    {
+      "id": 2,
+      "price": 100.1,
+      "description": "Stylish black leather loafers, perfect for both casual and formal wear."
+    },
+    {
+      "id": 3,
+      "price": 45.5,
+      "description": "Lightweight running shoes with breathable mesh fabric and cushioned insoles."
+    },
+    {
+      "id": 4,
+      "price": 120.0,
+      "description": "High-top basketball shoes with excellent ankle support and grip."
+    },
+    {
+      "id": 5,
+      "price": 222.0,
+      "description": "Casual slip-on shoes with a soft fabric upper and flexible rubber sole."
+    },
+    {
+      "id": 6,
+      "price": 99.95,
+      "description": "Waterproof hiking boots with durable leather and rugged traction sole."
+    }
+  ]
+}
