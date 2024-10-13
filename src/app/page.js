@@ -6,6 +6,8 @@ const Home = async () => {
     next: { revalidate: 5 },
   });
   const shoes = await res.json();
+  throw new Error("error form home page");
+
   return (
     <div>
       <h1>next js home page</h1>
